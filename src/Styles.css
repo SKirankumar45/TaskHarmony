@@ -8,7 +8,7 @@ html, body {
   font-family: -apple-system, system-ui, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
   background:#f7f8f9;
   color: #111010;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .change-theme{
@@ -118,7 +118,7 @@ header p {
   padding: 12px;
   border: 1px solid #eeeeee;
   border-radius: 8px;
-  background: #ffffff;
+  background: light gray;
 }
 
 .task-list li.completed {
